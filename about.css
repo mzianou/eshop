@@ -1,0 +1,29 @@
+*{text-align: center}
+
+p,h1 {
+  font: italic bold 12px/30px Georgia, serif;
+}
+body{
+	 border: 3px solid #f1f1f1;
+	 background-color:#f1f1f1;
+}
+
+.header {
+  padding: 40px; 
+  text-align: center; 
+  background: #1abc9c; 
+  font-family: "Sofia";
+  font-size: 22px;
+  color: white; 
+}
+
+
+.header h1 {
+  font-size: 40px;
+}
+
+.footer {
+  padding: 20px; 
+  text-align: center; 
+  background: #1abc9c; 
+}
